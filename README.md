@@ -1,4 +1,4 @@
-GIT
+Estou apenas aprendendo a mexer com git e github
 Estados
 Modificado (modified);
 Preparado (staged/index)
